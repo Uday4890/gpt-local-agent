@@ -1,0 +1,24 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Environment variables / secrets
+.env
+*.env
+
+# Node
+node_modules/
+
+# OS junk
+.DS_Store
+Thumbs.db
+# Databases
+*.db
+
+# Node deps
+node_modules/
