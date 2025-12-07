@@ -22,3 +22,9 @@ Thumbs.db
 
 # Node deps
 node_modules/
+# Ignore all workspace output...
+agent_workspace/*
+
+# ...except the showcased demo
+!agent_workspace/blog-api/
+!agent_workspace/blog-api/**
